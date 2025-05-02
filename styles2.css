@@ -73,6 +73,8 @@ h1 {
   transform: translate(-50%, -50%);
   color: White;
   font-size: 30px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000,
+          -1px 1px 0 #000, 1px 1px 0 #000;
 }
 .imagen {
   position: relative;
