@@ -1,9 +1,10 @@
 # Reglamentación de equipo
-Equipo:
--Agustín Orlando
--Ignacio Suarez
--Veralucia Torales
--Rafael Trápani
+## Equipo:
+- Agustín Orlando
+- Ignacio Suarez
+- Veralucia Torales
+- Rafael Trápani
+- 
 Este documento fue propuesto, discutido, aceptado y leído por todos los integrantes del equipo, el desconocimiento a la reglamentación no exime a nadie de las consecuencias que éste pueda presentar.
 
 
@@ -61,25 +62,27 @@ Se busca que todo tema planteado en una reunión se resuelva en la misma.
 
 
 
-Reuniones:
+## Reuniones:
 
 Existen 4 tipos de reuniones:
-	.Reuniones Semanales:
-    		-Ocurren todas las semanas los días viernes.
-		-Ocurren de forma virtual.
-		-Son obligatorias para todo el equipo.
-	.Reuniones Bisemanales:
-    		-Ocurren cada 2 semanas los días lunes.
-    		-Ocurren de forma presencial.
-    		-Son obligatorias para todo el equipo.
-	.Reuniones Específicas:
-    		-Ocurren cuando se requiera tratar con un tema puntual.
-    		-Ocurren en la modalidad designada.
-    		-Son obligatorias para los integrantes designados.
-	.Reuniones de Emergencia:
-    		-Ocurren cuando se requiera tratar con un tema puntual antes de la fecha de la próxima reunión semanal o bisemanal.
-    		-Ocurren en la modalidad designada.
-    		-Son obligatorias para todo el equipo.
+- Reuniones Semanales:
+  - Ocurren todas las semanas los días viernes.
+- Ocurren de forma virtual.
+
+- 
+		- Son obligatorias para todo el equipo.
+	- Reuniones Bisemanales:
+    		- Ocurren cada 2 semanas los días lunes.
+    		- Ocurren de forma presencial.
+    		- Son obligatorias para todo el equipo.
+	- Reuniones Específicas:
+    		- Ocurren cuando se requiera tratar con un tema puntual.
+    		- Ocurren en la modalidad designada.
+    		- Son obligatorias para los integrantes designados.
+	- Reuniones de Emergencia:
+    		- Ocurren cuando se requiera tratar con un tema puntual antes de la fecha de la próxima reunión semanal o bisemanal.
+    		- Ocurren en la modalidad designada.
+    		- Son obligatorias para todo el equipo.
 En las reuniones se hablará sobre:
 	.Estado actual del proyecto:
     	-Necesidades actuales de cada área.
@@ -187,11 +190,14 @@ En el documento de acta se encontrarán explícitamente escritos:
 Toda acta debe ser presentada el día posterior a la reunión a la que refiere.
 En caso de que no se haya podido efectuar un acta en tiempo y forma, se puede generar hasta un máximo período de una semana posterior a la reunión a la que refiere. En caso de incumplimiento, el acta llevará una denotación que demuestre su presentación tardía.
 
-Disolución y expulsiones:
+## Disolución y expulsiones:
+En cualquier caso tendrán acceso al código.
+
+### Expulsión
 En caso de que un integrante sea expulsado del equipo, este tendrá acceso al proyecto así como quedó a a fecha de su expulsión, sin embargo en caso de crear una nueva empresa no podrá utilizar el nombre ni el logo de esta empresa.
 
 Asi mismo se deberá cortar su acceso a cualquier tipo de información privada e intransferible del equipo, incluyendo código, documentación y canales de comunicación.
-
+### Disolución
 En caso de que se disuelva el equipo, la parte con más integrantes se queda con el nombre y logo de la empresa, si hay empate, se resuelve por votación, y si esta se pospone, se recurrirá al lanzamiento de una moneda.
 
 
@@ -219,11 +225,11 @@ Se solicita que todos los integrantes puedan estar en la reuniones, en caso de f
 El integrante que falte deberá ponerse al tanto de la ultima acta de reunión.
 
 Votación:
-En caso de no participación en el proyecto durante tres semanas máximo los
+- En caso de no participación en el proyecto durante tres semanas máximo los
 integrantes restantes podremos decidir la expulsión del integrante que no participo.
-Las propuestas de ideas serán votadas democráticamente: La persona que propone la idea no puede votar, diciéndose entre los otros tres
+- Las propuestas de ideas serán votadas democráticamente: La persona que propone la idea no puede votar, diciéndose entre los otros tres
 integrantes, se necesita dos votos para que una idea sea aprobada. En caso de que un integrante no pueda votar por cualquier tipo de
 motivo el integrante que propone la idea podrá ser participe de la votación.
-El voto en blanco se considerado no voto.
-Todas las ideas tienen que tener al menos un día de antelación.
-Todo voto debe ser ingresado durante el día de votación, salvo excepciones.
+- El voto en blanco se considerado no voto.
+- Todas las ideas tienen que tener al menos un día de antelación.
+- Todo voto debe ser ingresado durante el día de votación, salvo excepciones.
